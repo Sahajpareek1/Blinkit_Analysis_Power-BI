@@ -180,9 +180,9 @@ To conduct a comprehensive analysis of Blinkit’s sales performance, customer s
 
 For any queries or feedback, feel free to reach out:
 
-- **Name**: Prajwal Gopal Poojary
-- **Email**: prajwalgpa@gmail.com
-- **Portfolio**: [Prajwal's Portfolio](https://prajwalgopalpoojary.netlify.app/)
+- **Name**: Sahaj Pareek
+- **Email**: prksahaj@gmail.com
+
 
 ---
 
@@ -191,10 +191,3 @@ For any queries or feedback, feel free to reach out:
 Special thanks to the Blinkit team for providing the data used in this analysis.  
 A big shoutout to [Data Tutorials](https://www.youtube.com/@datatutorials1) for their helpful tutorial that guided this project. Watch the full tutorial [here](https://www.youtube.com/watch?v=mmxVCFceQgU).
 
-## 🔗 Links
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://prajwalgopalpoojary.netlify.app/)  
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwalgopalpoojary/)  
-[![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/prajwalgpa)
-
----
