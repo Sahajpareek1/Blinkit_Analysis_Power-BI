@@ -177,8 +177,4 @@ For any queries or feedback, feel free to reach out:
 
 ---
 
-## 🙌 Acknowledgments
-
-Special thanks to the Blinkit team for providing the data used in this analysis.  
-A big shoutout to [Data Tutorials](https://www.youtube.com/@datatutorials1) for their helpful tutorial that guided this project. Watch the full tutorial [here](https://www.youtube.com/watch?v=mmxVCFceQgU).
 
